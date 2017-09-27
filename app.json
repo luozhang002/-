@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ff5577",
+    "navigationBarTitleText": "罗章通讯名片",
+    "navigationBarTextStyle":"black"
+  }
+}

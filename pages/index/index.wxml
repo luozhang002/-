@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+      <image class="userinfo-avatar" src="../image/me.jpg" background-size="cover"></image>
+      <button type="primary" bindtap='addMe'>添加我到通讯录</button>
+  </view>
+  <button class="usermotto" type="primary" bindtap="callMe">
+    <text class="user-motto">{{motto}}</text>
+  </button>
+</view>
